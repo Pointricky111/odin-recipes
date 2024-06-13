@@ -17,6 +17,7 @@ h1 {
 h2 {
     color: black;
     text-align: center;
+    font-size: 35px;
 }
 
 p {
@@ -28,11 +29,13 @@ p {
 ul {
     color: navy;
     font-weight: bold;
+    font-size: 20px; 
 }
 
 ol {
     color: purple;
     font-weight: bold;
+    font-size: 20px;
 }
 
 
