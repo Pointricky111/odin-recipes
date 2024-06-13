@@ -4,6 +4,8 @@ body{
 
 h1 {
     font-size: 50px;
+    background: gray;
+    text-align: center;
 }
 
 .wellington {
@@ -24,12 +26,12 @@ p {
 }
 
 ul {
-    color: blue;
+    color: navy;
     font-weight: bold;
 }
 
 ol {
-    color: violet;
+    color: purple;
     font-weight: bold;
 }
 
